@@ -31,7 +31,6 @@
   
   <!--Add PE Apps-->
   <project path="vendor/gapps" name="vendor_gapps" remote="PixelExperience" revision="pie" />
-  <project path="packages/apps/ARStickersMod" name="packages_apps_ARStickersMod" remote="PixelExperience" revision="pie" />
   <project path="packages/apps/Playground" name="packages_apps_Playground" remote="PixelExperience" revision="pie" />
   
 </manifest>
