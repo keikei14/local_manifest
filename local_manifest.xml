@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!-- My repos -->
   <remote name="keikei14"
           fetch="https://github.com/keikei14" />
   <remote name="stallix"
@@ -11,18 +10,4 @@
   <project path="vendor/xiaomi" name="vendor_xiaomi" remote="stallix" revision="pie" />
   <project path="device/xiaomi/msm8953-common" name="android_device_xiaomi_msm8953-common" remote="keikei14" revision="lineage-16.0-4.9" />
   <project path="kernel/xiaomi/msm8953" name="android_kernel_xiaomi_msm8953-1" remote="keikei14" revision="lineage-16.0-4.9" />
-  
-  <!--Remove bloat-->
-  <remove-project name="platform/packages/apps/Browser2" />
-  <remove-project name="platform/packages/apps/Calendar/" />
-  <remove-project name="platform/packages/apps/Camera2" />
-  <remove-project name="platform/packages/apps/Contacts" />
-  <remove-project name="platform/packages/apps/DeskClock" />
-  <remove-project name="platform/packages/apps/Dialer" />
-  <remove-project name="platform/packages/apps/Email" />
-  <remove-project name="platform/packages/apps/ExactCalculator" />
-  <remove-project name="platform/packages/apps/Gallery" />
-  <remove-project name="platform/packages/apps/Gallery2" />
-  <remove-project name="platform/packages/apps/Messaging" />
-  
 </manifest>
