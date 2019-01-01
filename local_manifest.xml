@@ -33,4 +33,7 @@
   <project path="vendor/gapps" name="vendor_gapps" remote="PixelExperience" revision="pie" />
   <project path="packages/apps/Playground" name="packages_apps_Playground" remote="PixelExperience" revision="pie" />
   
+  <!--Add my apps-->
+  <project path="packages/apps" name="packages_apps_myapps" remote="keikei14" revision="master" />
+  
 </manifest>
