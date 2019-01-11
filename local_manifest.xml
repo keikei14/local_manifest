@@ -29,7 +29,4 @@
   <!--Add PE Apps-->
   <project path="vendor/gapps" name="vendor_gapps" remote="PixelExperience" revision="pie" />
   
-  <!-- My Apps -->
-  <project path="packages/apps" name="packages_apps_myapps" remote="keikei14" />
-  
 </manifest>
