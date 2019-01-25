@@ -7,6 +7,8 @@
           fetch="https://github.com/Stallix" />
   <remote name="flex1911"
           fetch="https://github.com/Flex1911" />
+  <remote name="tekkenyu"
+	  fetch="https://github.com/tekkenyu" />
   <remote name="PixelExperience"
 		  fetch="https://gitlab.com/PixelExperience" />
 		  
