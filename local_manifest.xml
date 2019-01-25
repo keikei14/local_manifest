@@ -9,11 +9,13 @@
           fetch="https://github.com/Flex1911" />
   <remote name="PixelExperience"
 		  fetch="https://gitlab.com/PixelExperience" />
+  <remote name="tekkenyu"
+          fetch="https://github.com/tekkenyu" />
 		  
   <!-- Trees -->
   <project path="device/xiaomi/tissot" name="device_xiaomi_tissot" remote="stallix" revision="pie" />
   <project path="vendor/xiaomi" name="vendor_xiaomi" remote="stallix" revision="pie" />
-  <project path="device/xiaomi/msm8953-common" name="device_xiaomi_msm8953-common" remote="stallix" revision="pie" />
+  <project path="device/xiaomi/msm8953-common" name="device_xiaomi_msm8953-common" remote="tekkenyu" revision="test-2" />
   <project path="kernel/xiaomi/msm8953" name="kernel_xiaomi_msm8953" remote="stallix" revision="pie" />
   
   <!--Remove bloat-->
