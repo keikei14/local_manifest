@@ -27,4 +27,8 @@
   <remove-project name="platform/packages/apps/Gallery" />
   <remove-project name="platform/packages/apps/Gallery2" />
   <remove-project name="platform/packages/apps/Messaging" />
+  
+  <!--Add PE Apps-->
+  <project path="vendor/gapps" name="vendor_gapps" remote="PixelExperience" revision="pie" />
+
 </manifest>
