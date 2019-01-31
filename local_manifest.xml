@@ -14,8 +14,8 @@
 		  
   <!-- Trees -->
   <project path="device/xiaomi/tissot" name="device_xiaomi_tissot" remote="stallix" revision="pie" />
-  <project path="vendor/xiaomi" name="vendor-xiaomi" remote="tekkenyu" revision="lineage-16.0_4.9" />
-  <project path="device/xiaomi/msm8953-common" name="device-xiaomi-msm8953-common" remote="tekkenyu" revision="test-2" />
+  <project path="vendor/xiaomi" name="vendor_xiaomi" remote="keikei14" revision="pie" />
+  <project path="device/xiaomi/msm8953-common" name="device_xiaomi_msm8953-common" remote="keikei14" revision="pie" />
   <project path="kernel/xiaomi/msm8953" name="kernel_xiaomi_msm8953" remote="stallix" revision="pie" />
   
   <!--Remove bloat-->
