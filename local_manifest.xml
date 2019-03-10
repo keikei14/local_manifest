@@ -17,7 +17,6 @@
   <project path="vendor/xiaomi" name="vendor_xiaomi" remote="Evo-X" revision="pie" />
   <project path="device/xiaomi/msm8953-common" name="device_xiaomi_msm8953-common" remote="keikei14" revision="pie" />
   <project path="kernel/xiaomi/msm8953" name="android_kernel_xiaomi_msm8953" remote="LineageOS" revision="lineage-16.0" />
-  <project path=".repo/local_manifests" name="local_manifest" remote="keikei14" revision="master" />
   
   <!--Remove bloat-->
   <remove-project name="platform/packages/apps/Browser2" />
